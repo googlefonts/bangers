@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="perthousand" format="1">
-  <advance width="818"/>
-  <unicode hex="2030"/>
-  <outline>
-    <component base="percent" xOffset="50"/>
-  </outline>
-</glyph>
