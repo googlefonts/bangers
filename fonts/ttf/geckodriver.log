@@ -1,0 +1,24 @@
+1687359605529	geckodriver	INFO	Listening on 127.0.0.1:54908
+1687359606036	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/rust_mozprofile58Bx9T"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687359606610	Marionette	INFO	Marionette enabled
+1687359606768	Marionette	INFO	Listening on port 54916
+Read port: 54916
+console.error: "Warning: unrecognized command line flag -hide-scrollbars\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54909
+2023-06-21 17:00:06.885 plugin-container[32030:576010] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-21 17:00:06.885 plugin-container[32030:576010] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1687359606893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-06-21 17:00:06.987 plugin-container[32030:576010] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-21 17:00:06.987 plugin-container[32030:576010] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-21 17:00:06.987 plugin-container[32030:576013] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-21 17:00:06.987 plugin-container[32030:576013] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:54909/devtools/browser/35634078-8481-43bb-bab1-701ef2575775
+JavaScript error: file:////Users/marichalemma/Google/forks/bangers/fonts/ttf/out/Diffbrowsers/Regular/diffbrowsers/diffbrowsers_glyphs.html, line 1403: ReferenceError: fontdiff is not defined
+JavaScript error: file:////Users/marichalemma/Google/forks/bangers/fonts/ttf/out/Diffbrowsers/Regular/diffbrowsers/diffbrowsers_text.html, line 270: ReferenceError: fontdiff is not defined
+JavaScript error: file:////Users/marichalemma/Google/forks/bangers/fonts/ttf/out/Diffbrowsers/Regular/diffbrowsers/diffbrowsers_waterfall.html, line 357: ReferenceError: fontdiff is not defined
+1687359628665	Marionette	INFO	Stopped listening on port 54916
